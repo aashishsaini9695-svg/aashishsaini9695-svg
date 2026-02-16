@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aashish Saini 👋
 
-<!--
-**aashishsaini9695-svg/aashishsaini9695-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Science Intern  
+💻 Python | Machine Learning | API Integration  
+📊 Strong foundation in Regression & Classification  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Python, DSA, OOPS
+- Pandas, NumPy, Scikit-learn
+- Matplotlib
+- REST API Integration
+- Basic Git & GitHub
+
+---
+
+## 🚀 Projects
+- Weather App (API Integration)
+- Random Password Generator
+- Voice Assistant
+
+---
+
+## 📈 Currently Learning
+- Advanced Machine Learning
+- Model Optimization
+- End-to-End ML Deployment
+
+---
+
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/aashish-saini-905990320/
